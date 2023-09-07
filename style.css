@@ -61,7 +61,7 @@ main {
 }
 
 .movie-info {
-  color: #eee;
+  color: #eeeeee;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -91,7 +91,7 @@ main {
 }
 
 .overview {
-  background-color: #fff;
+  background-color: #e2e7ff;
   padding: 2rem;
   position: absolute;
   left: 0;
